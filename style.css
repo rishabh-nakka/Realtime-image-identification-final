@@ -1,0 +1,10 @@
+body{
+    background-image:url("background.jpg");
+}
+canvas{
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: cyan;
+    box-shadow: 5px 5px 10px cyan;
+}
